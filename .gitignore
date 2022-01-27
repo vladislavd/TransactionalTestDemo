@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/build/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
+/.idea/dataSources.xml
+/.idea/sqldialects.xml
+/.idea/vcs.xml
